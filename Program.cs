@@ -17,7 +17,7 @@ namespace EduMuse
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ManagmentForm());
+            Application.Run(new MenuForm());
         }
     }
 }

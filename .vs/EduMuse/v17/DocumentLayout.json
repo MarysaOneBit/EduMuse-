@@ -3,56 +3,100 @@
   "WorkspaceRootPath": "D:\\EduMuse\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|d:\\edumuse\\autoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|solutionrelative:autoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|d:\\edumuse\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|solutionrelative:menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|d:\\edumuse\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|solutionrelative:reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|d:\\edumuse\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|solutionrelative:reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|d:\\edumuse\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|solutionrelative:menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|d:\\edumuse\\personalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|solutionrelative:personalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|d:\\edumuse\\scheduleandbookingmanagement\\applicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|solutionrelative:scheduleandbookingmanagement\\applicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|d:\\edumuse\\scheduleandbookingmanagement\\applicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|solutionrelative:scheduleandbookingmanagement\\applicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|d:\\edumuse\\managmentprogram\\formcatalogeprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|solutionrelative:managmentprogram\\formcatalogeprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|D:\\EduMuse\\ManagmentProgram\\ManagmentForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|solutionrelative:ManagmentProgram\\ManagmentForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|d:\\edumuse\\personalform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|solutionrelative:personalform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|d:\\edumuse\\personalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|solutionrelative:personalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|D:\\EduMuse\\autoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|solutionrelative:autoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|D:\\EduMuse\\managmentprogram\\managmentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|solutionrelative:managmentprogram\\managmentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|D:\\EduMuse\\ManagmentProgram\\ManagmentForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|solutionrelative:ManagmentProgram\\ManagmentForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|D:\\EduMuse\\managmentprogram\\managmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|solutionrelative:managmentprogram\\managmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|d:\\edumuse\\managmentprogram\\formcatalogeprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|solutionrelative:managmentprogram\\formcatalogeprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|D:\\EduMuse\\autoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|solutionrelative:autoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|d:\\edumuse\\scheduleandbookingmanagement\\bookingmanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|solutionrelative:scheduleandbookingmanagement\\bookingmanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|D:\\EduMuse\\managmentprogram\\managmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|solutionrelative:managmentprogram\\managmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|d:\\edumuse\\scheduleandbookingmanagement\\bookingmanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|solutionrelative:scheduleandbookingmanagement\\bookingmanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|D:\\EduMuse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-=======
-      "AbsoluteMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|d:\\edumuse\\autoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|solutionrelative:autoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|d:\\edumuse\\scheduleandbookingmanagement\\applicationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|solutionrelative:scheduleandbookingmanagement\\applicationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|d:\\edumuse\\managmentprogram\\managmentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|solutionrelative:managmentprogram\\managmentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|d:\\edumuse\\scheduleandbookingmanagement\\bookingmanagment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|solutionrelative:scheduleandbookingmanagement\\bookingmanagment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|d:\\edumuse\\managmentprogram\\managmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|solutionrelative:managmentprogram\\managmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|d:\\edumuse\\menuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|solutionrelative:menuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|d:\\edumuse\\autoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|solutionrelative:autoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|D:\\EduMuse\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|d:\\edumuse\\managmentprogram\\managmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|solutionrelative:managmentprogram\\managmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|d:\\edumuse\\managmentprogram\\formcatalogeprogram.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|solutionrelative:managmentprogram\\formcatalogeprogram.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|d:\\edumuse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
->>>>>>> AddFormAndAuto
-      "RelativeMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|D:\\EduMuse\\AutoForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|solutionrelative:AutoForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|D:\\EduMuse\\AutoForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|solutionrelative:AutoForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|D:\\EduMuse\\ManagmentProgram\\ManagmentForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0CB928-C786-4156-9BD3-6025B2D2E081}|EduMuse.csproj|solutionrelative:ManagmentProgram\\ManagmentForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,124 +106,311 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AutoForm.Designer.cs",
-              "DocumentMoniker": "D:\\EduMuse\\AutoForm.Designer.cs",
-              "RelativeDocumentMoniker": "AutoForm.Designer.cs",
-              "ToolTip": "D:\\EduMuse\\AutoForm.Designer.cs",
-              "RelativeToolTip": "AutoForm.Designer.cs",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAAANkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-<<<<<<< HEAD
-              "WhenOpened": "2025-08-02T05:41:09.988Z"
-=======
-              "WhenOpened": "2025-08-02T05:41:09.988Z",
-              "EditorCaption": ""
->>>>>>> AddFormAndAuto
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AutoForm.cs",
-              "DocumentMoniker": "D:\\EduMuse\\AutoForm.cs",
-              "RelativeDocumentMoniker": "AutoForm.cs",
-              "ToolTip": "D:\\EduMuse\\AutoForm.cs",
-              "RelativeToolTip": "AutoForm.cs",
-<<<<<<< HEAD
-              "ViewState": "AgIAABQAAAAAAAAAAAAMwCwAAABNAAAAAAAAAA==",
-=======
-              "ViewState": "AgIAABQAAAAAAAAAAAAMwCIAAAAJAAAAAAAAAA==",
->>>>>>> AddFormAndAuto
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T05:41:07.6Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AutoForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\EduMuse\\AutoForm.cs",
-              "RelativeDocumentMoniker": "AutoForm.cs",
-              "ToolTip": "D:\\EduMuse\\AutoForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "AutoForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Title": "ReportForm.cs",
+              "DocumentMoniker": "D:\\EduMuse\\ReportForm.cs",
+              "RelativeDocumentMoniker": "ReportForm.cs",
+              "ToolTip": "D:\\EduMuse\\ReportForm.cs",
+              "RelativeToolTip": "ReportForm.cs",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAowMsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-<<<<<<< HEAD
-              "WhenOpened": "2025-08-02T05:40:59.109Z"
-=======
-              "WhenOpened": "2025-08-02T05:40:59.109Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
->>>>>>> AddFormAndAuto
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ManagmentForm.cs",
-              "DocumentMoniker": "D:\\EduMuse\\ManagmentProgram\\ManagmentForm.cs",
-              "RelativeDocumentMoniker": "ManagmentProgram\\ManagmentForm.cs",
-              "ToolTip": "D:\\EduMuse\\ManagmentProgram\\ManagmentForm.cs",
-              "RelativeToolTip": "ManagmentProgram\\ManagmentForm.cs",
-              "ViewState": "AgIAAN4AAAAAAAAAAAASwPoAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-<<<<<<< HEAD
-              "WhenOpened": "2025-08-02T04:52:32.395Z"
-=======
-              "WhenOpened": "2025-08-02T04:52:32.395Z",
+              "WhenOpened": "2025-08-02T11:03:42.278Z",
               "EditorCaption": ""
->>>>>>> AddFormAndAuto
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ManagmentForm.Designer.cs",
-              "DocumentMoniker": "D:\\EduMuse\\ManagmentProgram\\ManagmentForm.Designer.cs",
-              "RelativeDocumentMoniker": "ManagmentProgram\\ManagmentForm.Designer.cs",
-              "ToolTip": "D:\\EduMuse\\ManagmentProgram\\ManagmentForm.Designer.cs",
-              "RelativeToolTip": "ManagmentProgram\\ManagmentForm.Designer.cs",
-              "ViewState": "AgIAABUCAAAAAAAAAAAnwC4CAAAAAAAAAAAAAA==",
+              "Title": "ReportForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\EduMuse\\ReportForm.cs",
+              "RelativeDocumentMoniker": "ReportForm.cs",
+              "ToolTip": "D:\\EduMuse\\ReportForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ReportForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-<<<<<<< HEAD
-              "WhenOpened": "2025-08-02T04:48:26.813Z"
-=======
-              "WhenOpened": "2025-08-02T04:48:26.813Z",
+              "WhenOpened": "2025-08-02T10:59:01.911Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationForm.cs",
+              "DocumentMoniker": "D:\\EduMuse\\ScheduleAndBookingManagement\\ApplicationForm.cs",
+              "RelativeDocumentMoniker": "ScheduleAndBookingManagement\\ApplicationForm.cs",
+              "ToolTip": "D:\\EduMuse\\ScheduleAndBookingManagement\\ApplicationForm.cs",
+              "RelativeToolTip": "ScheduleAndBookingManagement\\ApplicationForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T07:32:41.927Z",
               "EditorCaption": ""
->>>>>>> AddFormAndAuto
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonalForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\EduMuse\\PersonalForm.cs",
+              "RelativeDocumentMoniker": "PersonalForm.cs",
+              "ToolTip": "D:\\EduMuse\\PersonalForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "PersonalForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T09:07:51.812Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\EduMuse\\MenuForm.cs",
+              "RelativeDocumentMoniker": "MenuForm.cs",
+              "ToolTip": "D:\\EduMuse\\MenuForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "MenuForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:59:37.122Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "MenuForm.cs",
+              "DocumentMoniker": "D:\\EduMuse\\MenuForm.cs",
+              "RelativeDocumentMoniker": "MenuForm.cs",
+              "ToolTip": "D:\\EduMuse\\MenuForm.cs",
+              "RelativeToolTip": "MenuForm.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAArwGUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T06:00:03.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormCatalogeProgram.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\EduMuse\\ManagmentProgram\\FormCatalogeProgram.cs",
+              "RelativeDocumentMoniker": "ManagmentProgram\\FormCatalogeProgram.cs",
+              "ToolTip": "D:\\EduMuse\\ManagmentProgram\\FormCatalogeProgram.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ManagmentProgram\\FormCatalogeProgram.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T06:03:53.541Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\EduMuse\\ScheduleAndBookingManagement\\ApplicationForm.cs",
+              "RelativeDocumentMoniker": "ScheduleAndBookingManagement\\ApplicationForm.cs",
+              "ToolTip": "D:\\EduMuse\\ScheduleAndBookingManagement\\ApplicationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ScheduleAndBookingManagement\\ApplicationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T07:31:23.344Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ManagmentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "D:\\EduMuse\\ManagmentProgram\\ManagmentForm.cs",
               "RelativeDocumentMoniker": "ManagmentProgram\\ManagmentForm.cs",
               "ToolTip": "D:\\EduMuse\\ManagmentProgram\\ManagmentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "ManagmentProgram\\ManagmentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-<<<<<<< HEAD
-              "WhenOpened": "2025-08-02T04:48:17.278Z"
-=======
-              "WhenOpened": "2025-08-02T04:48:17.278Z",
+              "WhenOpened": "2025-08-02T05:51:45.689Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
->>>>>>> AddFormAndAuto
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
+              "Title": "PersonalForm.Designer.cs",
+              "DocumentMoniker": "D:\\EduMuse\\PersonalForm.Designer.cs",
+              "RelativeDocumentMoniker": "PersonalForm.Designer.cs",
+              "ToolTip": "D:\\EduMuse\\PersonalForm.Designer.cs",
+              "RelativeToolTip": "PersonalForm.Designer.cs",
+              "ViewState": "AgIAALgBAAAAAAAAAAAswN8BAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T09:08:57.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookingManagment.cs",
+              "DocumentMoniker": "D:\\EduMuse\\ScheduleAndBookingManagement\\BookingManagment.cs",
+              "RelativeDocumentMoniker": "ScheduleAndBookingManagement\\BookingManagment.cs",
+              "ToolTip": "D:\\EduMuse\\ScheduleAndBookingManagement\\BookingManagment.cs",
+              "RelativeToolTip": "ScheduleAndBookingManagement\\BookingManagment.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAMwFwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T06:23:31.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersonalForm.cs",
+              "DocumentMoniker": "D:\\EduMuse\\PersonalForm.cs",
+              "RelativeDocumentMoniker": "PersonalForm.cs",
+              "ToolTip": "D:\\EduMuse\\PersonalForm.cs",
+              "RelativeToolTip": "PersonalForm.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAuwM8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T09:07:56.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookingManagment.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\EduMuse\\ScheduleAndBookingManagement\\BookingManagment.cs",
+              "RelativeDocumentMoniker": "ScheduleAndBookingManagement\\BookingManagment.cs",
+              "ToolTip": "D:\\EduMuse\\ScheduleAndBookingManagement\\BookingManagment.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ScheduleAndBookingManagement\\BookingManagment.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T06:22:46.442Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ManagmentForm.cs",
+              "DocumentMoniker": "D:\\EduMuse\\ManagmentProgram\\ManagmentForm.cs",
+              "RelativeDocumentMoniker": "ManagmentProgram\\ManagmentForm.cs",
+              "ToolTip": "D:\\EduMuse\\ManagmentProgram\\ManagmentForm.cs",
+              "RelativeToolTip": "ManagmentProgram\\ManagmentForm.cs",
+              "ViewState": "AgIAABIBAAAAAAAAAAAMwDMBAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:51:45.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormCatalogeProgram.cs",
+              "DocumentMoniker": "D:\\EduMuse\\ManagmentProgram\\FormCatalogeProgram.cs",
+              "RelativeDocumentMoniker": "ManagmentProgram\\FormCatalogeProgram.cs",
+              "ToolTip": "D:\\EduMuse\\ManagmentProgram\\FormCatalogeProgram.cs",
+              "RelativeToolTip": "ManagmentProgram\\FormCatalogeProgram.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAewFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T06:04:18.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AutoForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\EduMuse\\AutoForm.cs",
+              "RelativeDocumentMoniker": "AutoForm.cs",
+              "ToolTip": "D:\\EduMuse\\AutoForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "AutoForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:51:45.679Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MenuForm.Designer.cs",
+              "DocumentMoniker": "D:\\EduMuse\\MenuForm.Designer.cs",
+              "RelativeDocumentMoniker": "MenuForm.Designer.cs",
+              "ToolTip": "D:\\EduMuse\\MenuForm.Designer.cs",
+              "RelativeToolTip": "MenuForm.Designer.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAswEcBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:59:47.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationForm.Designer.cs",
+              "DocumentMoniker": "D:\\EduMuse\\ScheduleAndBookingManagement\\ApplicationForm.Designer.cs",
+              "RelativeDocumentMoniker": "ScheduleAndBookingManagement\\ApplicationForm.Designer.cs",
+              "ToolTip": "D:\\EduMuse\\ScheduleAndBookingManagement\\ApplicationForm.Designer.cs",
+              "RelativeToolTip": "ScheduleAndBookingManagement\\ApplicationForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4BAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T07:32:16.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\EduMuse\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\EduMuse\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-<<<<<<< HEAD
-              "WhenOpened": "2025-08-02T04:55:46.691Z"
-=======
-              "WhenOpened": "2025-08-02T04:55:46.691Z",
+              "WhenOpened": "2025-08-02T05:51:45.689Z",
               "EditorCaption": ""
->>>>>>> AddFormAndAuto
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookingManagment.Designer.cs",
+              "DocumentMoniker": "D:\\EduMuse\\ScheduleAndBookingManagement\\BookingManagment.Designer.cs",
+              "RelativeDocumentMoniker": "ScheduleAndBookingManagement\\BookingManagment.Designer.cs",
+              "ToolTip": "D:\\EduMuse\\ScheduleAndBookingManagement\\BookingManagment.Designer.cs",
+              "RelativeToolTip": "ScheduleAndBookingManagement\\BookingManagment.Designer.cs",
+              "ViewState": "AgIAAEcBAAAAAAAAAAAswIgBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T06:22:57.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormCatalogeProgram.Designer.cs",
+              "DocumentMoniker": "D:\\EduMuse\\ManagmentProgram\\FormCatalogeProgram.Designer.cs",
+              "RelativeDocumentMoniker": "ManagmentProgram\\FormCatalogeProgram.Designer.cs",
+              "ToolTip": "D:\\EduMuse\\ManagmentProgram\\FormCatalogeProgram.Designer.cs",
+              "RelativeToolTip": "ManagmentProgram\\FormCatalogeProgram.Designer.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAcwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T06:03:57.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AutoForm.cs",
+              "DocumentMoniker": "D:\\EduMuse\\AutoForm.cs",
+              "RelativeDocumentMoniker": "AutoForm.cs",
+              "ToolTip": "D:\\EduMuse\\AutoForm.cs",
+              "RelativeToolTip": "AutoForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAMwCUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:51:45.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AutoForm.Designer.cs",
+              "DocumentMoniker": "D:\\EduMuse\\AutoForm.Designer.cs",
+              "RelativeDocumentMoniker": "AutoForm.Designer.cs",
+              "ToolTip": "D:\\EduMuse\\AutoForm.Designer.cs",
+              "RelativeToolTip": "AutoForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:51:45.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ManagmentForm.Designer.cs",
+              "DocumentMoniker": "D:\\EduMuse\\ManagmentProgram\\ManagmentForm.Designer.cs",
+              "RelativeDocumentMoniker": "ManagmentProgram\\ManagmentForm.Designer.cs",
+              "ToolTip": "D:\\EduMuse\\ManagmentProgram\\ManagmentForm.Designer.cs",
+              "RelativeToolTip": "ManagmentProgram\\ManagmentForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:51:45.681Z",
+              "EditorCaption": ""
             }
           ]
         }

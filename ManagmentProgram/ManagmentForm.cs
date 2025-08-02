@@ -300,5 +300,12 @@ namespace EduMuse.ManagmentProgram
         {
             ClearForm();
         }
+
+        private void guna2Button_Back_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            MenuForm menuForm = new MenuForm();
+            menuForm.ShowDialog();
+        }
     }
 }

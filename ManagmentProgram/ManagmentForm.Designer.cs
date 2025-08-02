@@ -32,9 +32,9 @@ namespace EduMuse.ManagmentProgram
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle13 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle14 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle15 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
             this.guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
             this.guna2Button_Delete = new Guna.UI2.WinForms.Guna2Button();
             this.guna2Button_Clear = new Guna.UI2.WinForms.Guna2Button();
@@ -65,6 +65,7 @@ namespace EduMuse.ManagmentProgram
             this.guna2Button_Minimize = new Guna.UI2.WinForms.Guna2Button();
             this.guna2Button_Close = new Guna.UI2.WinForms.Guna2Button();
             this.guna2DragControl1 = new Guna.UI2.WinForms.Guna2DragControl(this.components);
+            this.guna2Button_Back = new Guna.UI2.WinForms.Guna2Button();
             this.guna2Panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.guna2NumericUpDown_MaxParticipants)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2NumericUpDown_MaxAge)).BeginInit();
@@ -77,6 +78,7 @@ namespace EduMuse.ManagmentProgram
             // 
             // guna2Panel1
             // 
+            this.guna2Panel1.Controls.Add(this.guna2Button_Back);
             this.guna2Panel1.Controls.Add(this.guna2Button_Delete);
             this.guna2Panel1.Controls.Add(this.guna2Button_Clear);
             this.guna2Panel1.Controls.Add(this.guna2Button_Update);
@@ -110,7 +112,7 @@ namespace EduMuse.ManagmentProgram
             // 
             this.guna2Button_Delete.BorderRadius = 10;
             this.guna2Button_Delete.FillColor = System.Drawing.Color.Red;
-            this.guna2Button_Delete.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.guna2Button_Delete.Font = new System.Drawing.Font("Segoe UI", 12F);
             this.guna2Button_Delete.ForeColor = System.Drawing.Color.White;
             this.guna2Button_Delete.Location = new System.Drawing.Point(12, 530);
             this.guna2Button_Delete.Name = "guna2Button_Delete";
@@ -123,7 +125,7 @@ namespace EduMuse.ManagmentProgram
             // 
             this.guna2Button_Clear.BorderRadius = 10;
             this.guna2Button_Clear.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.guna2Button_Clear.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.guna2Button_Clear.Font = new System.Drawing.Font("Segoe UI", 12F);
             this.guna2Button_Clear.ForeColor = System.Drawing.Color.Black;
             this.guna2Button_Clear.Location = new System.Drawing.Point(184, 530);
             this.guna2Button_Clear.Name = "guna2Button_Clear";
@@ -136,7 +138,7 @@ namespace EduMuse.ManagmentProgram
             // 
             this.guna2Button_Update.BorderRadius = 10;
             this.guna2Button_Update.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            this.guna2Button_Update.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.guna2Button_Update.Font = new System.Drawing.Font("Segoe UI", 12F);
             this.guna2Button_Update.ForeColor = System.Drawing.Color.White;
             this.guna2Button_Update.Location = new System.Drawing.Point(184, 479);
             this.guna2Button_Update.Name = "guna2Button_Update";
@@ -149,7 +151,7 @@ namespace EduMuse.ManagmentProgram
             // 
             this.guna2Button_Add.BorderRadius = 10;
             this.guna2Button_Add.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
-            this.guna2Button_Add.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.guna2Button_Add.Font = new System.Drawing.Font("Segoe UI", 12F);
             this.guna2Button_Add.ForeColor = System.Drawing.Color.White;
             this.guna2Button_Add.Location = new System.Drawing.Point(12, 479);
             this.guna2Button_Add.Name = "guna2Button_Add";
@@ -179,7 +181,7 @@ namespace EduMuse.ManagmentProgram
             this.guna2NumericUpDown_MaxParticipants.BackColor = System.Drawing.Color.Transparent;
             this.guna2NumericUpDown_MaxParticipants.BorderRadius = 8;
             this.guna2NumericUpDown_MaxParticipants.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.guna2NumericUpDown_MaxParticipants.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.guna2NumericUpDown_MaxParticipants.Font = new System.Drawing.Font("Segoe UI", 12F);
             this.guna2NumericUpDown_MaxParticipants.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(126)))), ((int)(((byte)(137)))), ((int)(((byte)(149)))));
             this.guna2NumericUpDown_MaxParticipants.Location = new System.Drawing.Point(179, 390);
             this.guna2NumericUpDown_MaxParticipants.Maximum = new decimal(new int[] {
@@ -196,7 +198,7 @@ namespace EduMuse.ManagmentProgram
             this.guna2NumericUpDown_MaxAge.BackColor = System.Drawing.Color.Transparent;
             this.guna2NumericUpDown_MaxAge.BorderRadius = 8;
             this.guna2NumericUpDown_MaxAge.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.guna2NumericUpDown_MaxAge.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.guna2NumericUpDown_MaxAge.Font = new System.Drawing.Font("Segoe UI", 12F);
             this.guna2NumericUpDown_MaxAge.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(126)))), ((int)(((byte)(137)))), ((int)(((byte)(149)))));
             this.guna2NumericUpDown_MaxAge.Location = new System.Drawing.Point(179, 348);
             this.guna2NumericUpDown_MaxAge.Name = "guna2NumericUpDown_MaxAge";
@@ -208,7 +210,7 @@ namespace EduMuse.ManagmentProgram
             this.guna2NumericUpDown_MinAge.BackColor = System.Drawing.Color.Transparent;
             this.guna2NumericUpDown_MinAge.BorderRadius = 8;
             this.guna2NumericUpDown_MinAge.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.guna2NumericUpDown_MinAge.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.guna2NumericUpDown_MinAge.Font = new System.Drawing.Font("Segoe UI", 12F);
             this.guna2NumericUpDown_MinAge.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(126)))), ((int)(((byte)(137)))), ((int)(((byte)(149)))));
             this.guna2NumericUpDown_MinAge.Location = new System.Drawing.Point(179, 306);
             this.guna2NumericUpDown_MinAge.Name = "guna2NumericUpDown_MinAge";
@@ -220,7 +222,7 @@ namespace EduMuse.ManagmentProgram
             this.guna2NumericUpDown_Price.BackColor = System.Drawing.Color.Transparent;
             this.guna2NumericUpDown_Price.BorderRadius = 8;
             this.guna2NumericUpDown_Price.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.guna2NumericUpDown_Price.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.guna2NumericUpDown_Price.Font = new System.Drawing.Font("Segoe UI", 12F);
             this.guna2NumericUpDown_Price.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(126)))), ((int)(((byte)(137)))), ((int)(((byte)(149)))));
             this.guna2NumericUpDown_Price.Location = new System.Drawing.Point(179, 264);
             this.guna2NumericUpDown_Price.Maximum = new decimal(new int[] {
@@ -237,7 +239,7 @@ namespace EduMuse.ManagmentProgram
             this.guna2NumericUpDown_Duration.BackColor = System.Drawing.Color.Transparent;
             this.guna2NumericUpDown_Duration.BorderRadius = 8;
             this.guna2NumericUpDown_Duration.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.guna2NumericUpDown_Duration.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.guna2NumericUpDown_Duration.Font = new System.Drawing.Font("Segoe UI", 12F);
             this.guna2NumericUpDown_Duration.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(126)))), ((int)(((byte)(137)))), ((int)(((byte)(149)))));
             this.guna2NumericUpDown_Duration.Location = new System.Drawing.Point(179, 222);
             this.guna2NumericUpDown_Duration.Maximum = new decimal(new int[] {
@@ -259,7 +261,7 @@ namespace EduMuse.ManagmentProgram
             this.guna2TextBox_Description.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
             this.guna2TextBox_Description.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
             this.guna2TextBox_Description.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox_Description.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.guna2TextBox_Description.Font = new System.Drawing.Font("Segoe UI", 12F);
             this.guna2TextBox_Description.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.guna2TextBox_Description.Location = new System.Drawing.Point(179, 180);
             this.guna2TextBox_Description.Name = "guna2TextBox_Description";
@@ -278,7 +280,7 @@ namespace EduMuse.ManagmentProgram
             this.guna2TextBox_TargetAudience.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
             this.guna2TextBox_TargetAudience.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
             this.guna2TextBox_TargetAudience.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox_TargetAudience.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.guna2TextBox_TargetAudience.Font = new System.Drawing.Font("Segoe UI", 12F);
             this.guna2TextBox_TargetAudience.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.guna2TextBox_TargetAudience.Location = new System.Drawing.Point(179, 138);
             this.guna2TextBox_TargetAudience.Name = "guna2TextBox_TargetAudience";
@@ -297,7 +299,7 @@ namespace EduMuse.ManagmentProgram
             this.guna2TextBox_ProgramName.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
             this.guna2TextBox_ProgramName.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
             this.guna2TextBox_ProgramName.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox_ProgramName.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.guna2TextBox_ProgramName.Font = new System.Drawing.Font("Segoe UI", 12F);
             this.guna2TextBox_ProgramName.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.guna2TextBox_ProgramName.Location = new System.Drawing.Point(179, 96);
             this.guna2TextBox_ProgramName.Name = "guna2TextBox_ProgramName";
@@ -316,7 +318,7 @@ namespace EduMuse.ManagmentProgram
             this.guna2TextBox_ProgramID.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
             this.guna2TextBox_ProgramID.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
             this.guna2TextBox_ProgramID.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox_ProgramID.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.guna2TextBox_ProgramID.Font = new System.Drawing.Font("Segoe UI", 12F);
             this.guna2TextBox_ProgramID.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.guna2TextBox_ProgramID.Location = new System.Drawing.Point(179, 54);
             this.guna2TextBox_ProgramID.Name = "guna2TextBox_ProgramID";
@@ -428,26 +430,26 @@ namespace EduMuse.ManagmentProgram
             // 
             this.dgvPrograms.AllowUserToAddRows = false;
             this.dgvPrograms.AllowUserToDeleteRows = false;
-            dataGridViewCellStyle13.BackColor = System.Drawing.Color.White;
-            this.dgvPrograms.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle13;
-            dataGridViewCellStyle14.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle14.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
-            dataGridViewCellStyle14.Font = new System.Drawing.Font("Segoe UI", 10.5F);
-            dataGridViewCellStyle14.ForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle14.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle14.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle14.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dgvPrograms.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle14;
+            dataGridViewCellStyle4.BackColor = System.Drawing.Color.White;
+            this.dgvPrograms.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle4;
+            dataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
+            dataGridViewCellStyle5.Font = new System.Drawing.Font("Segoe UI", 10.5F);
+            dataGridViewCellStyle5.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle5.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle5.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle5.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgvPrograms.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle5;
             this.dgvPrograms.ColumnHeadersHeight = 45;
             this.dgvPrograms.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.EnableResizing;
-            dataGridViewCellStyle15.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle15.BackColor = System.Drawing.Color.White;
-            dataGridViewCellStyle15.Font = new System.Drawing.Font("Segoe UI", 10.5F);
-            dataGridViewCellStyle15.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(69)))), ((int)(((byte)(94)))));
-            dataGridViewCellStyle15.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
-            dataGridViewCellStyle15.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(69)))), ((int)(((byte)(94)))));
-            dataGridViewCellStyle15.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dgvPrograms.DefaultCellStyle = dataGridViewCellStyle15;
+            dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle6.BackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle6.Font = new System.Drawing.Font("Segoe UI", 10.5F);
+            dataGridViewCellStyle6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(69)))), ((int)(((byte)(94)))));
+            dataGridViewCellStyle6.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
+            dataGridViewCellStyle6.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(69)))), ((int)(((byte)(94)))));
+            dataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dgvPrograms.DefaultCellStyle = dataGridViewCellStyle6;
             this.dgvPrograms.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
             this.dgvPrograms.Location = new System.Drawing.Point(0, 43);
             this.dgvPrograms.Name = "dgvPrograms";
@@ -526,6 +528,19 @@ namespace EduMuse.ManagmentProgram
             this.guna2DragControl1.TargetControl = this.label_Title;
             this.guna2DragControl1.UseTransparentDrag = true;
             // 
+            // guna2Button_Back
+            // 
+            this.guna2Button_Back.BackColor = System.Drawing.Color.Transparent;
+            this.guna2Button_Back.FillColor = System.Drawing.Color.Transparent;
+            this.guna2Button_Back.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold);
+            this.guna2Button_Back.ForeColor = System.Drawing.Color.Black;
+            this.guna2Button_Back.Location = new System.Drawing.Point(3, 0);
+            this.guna2Button_Back.Name = "guna2Button_Back";
+            this.guna2Button_Back.Size = new System.Drawing.Size(46, 40);
+            this.guna2Button_Back.TabIndex = 13;
+            this.guna2Button_Back.Text = "←";
+            this.guna2Button_Back.Click += new System.EventHandler(this.guna2Button_Back_Click);
+            // 
             // ManagmentForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -538,6 +553,7 @@ namespace EduMuse.ManagmentProgram
             this.Controls.Add(this.guna2Panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "ManagmentForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.guna2Panel1.ResumeLayout(false);
@@ -596,5 +612,6 @@ namespace EduMuse.ManagmentProgram
         private Guna.UI2.WinForms.Guna2Button guna2Button_Minimize;
         private Guna.UI2.WinForms.Guna2Button guna2Button_Close;
         private Guna.UI2.WinForms.Guna2DragControl guna2DragControl1;
+        private Guna.UI2.WinForms.Guna2Button guna2Button_Back;
     }
 }

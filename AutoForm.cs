@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace EduMuse
@@ -32,16 +25,8 @@ namespace EduMuse
         private void guna2Button_Minimize_Click(object sender, EventArgs e)
         {
             this.WindowState = FormWindowState.Minimized;
-<<<<<<< HEAD
-        }g
-=======
-        }
->>>>>>> AddFormAndAuto
 
-        /// <summary>
-        /// Обработчик нажатия кнопки "Войти".
-        /// Проверяет введенные данные и выполняет вход.
-        /// </summary>
+        }
         private void guna2Button_Login_Click(object sender, EventArgs e)
         {
             // Здесь должна быть реальная логика авторизации, например,
@@ -55,7 +40,7 @@ namespace EduMuse
                 MessageBox.Show("Вход успешен!", "Успех", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                 // Создаем и показываем основную форму (Form1)
-                AutoForm mainForm = new AutoForm();
+                MenuForm mainForm = new MenuForm();
                 mainForm.Show();
                 this.Hide(); // Скрываем форму авторизации
             }
@@ -65,5 +50,9 @@ namespace EduMuse
             }
         }
     }
+
+
+
 }
+
 
