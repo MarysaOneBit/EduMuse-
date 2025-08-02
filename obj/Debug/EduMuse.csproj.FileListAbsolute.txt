@@ -1,0 +1,12 @@
+D:\EduMuse\obj\Debug\EduMuse.csproj.AssemblyReference.cache
+D:\EduMuse\obj\Debug\EduMuse.ManagmentProgram.ManagmentForm.resources
+D:\EduMuse\obj\Debug\EduMuse.Properties.Resources.resources
+D:\EduMuse\obj\Debug\EduMuse.csproj.GenerateResource.cache
+D:\EduMuse\obj\Debug\EduMuse.csproj.CoreCompileInputs.cache
+D:\EduMuse\bin\Debug\EduMuse.exe.config
+D:\EduMuse\bin\Debug\EduMuse.exe
+D:\EduMuse\bin\Debug\EduMuse.pdb
+D:\EduMuse\bin\Debug\Guna.UI2.dll
+D:\EduMuse\obj\Debug\EduMuse.csproj.Up2Date
+D:\EduMuse\obj\Debug\EduMuse.exe
+D:\EduMuse\obj\Debug\EduMuse.pdb
