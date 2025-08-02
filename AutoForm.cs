@@ -32,7 +32,11 @@ namespace EduMuse
         private void guna2Button_Minimize_Click(object sender, EventArgs e)
         {
             this.WindowState = FormWindowState.Minimized;
+<<<<<<< HEAD
         }g
+=======
+        }
+>>>>>>> AddFormAndAuto
 
         /// <summary>
         /// Обработчик нажатия кнопки "Войти".

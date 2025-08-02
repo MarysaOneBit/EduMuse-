@@ -58,7 +58,13 @@
     <Compile Include="AutoForm.Designer.cs">
       <DependentUpon>AutoForm.cs</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="ManagmentProgram\ManagmentForm.cs" />
+=======
+    <Compile Include="ManagmentProgram\ManagmentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+>>>>>>> AddFormAndAuto
     <Compile Include="ManagmentProgram\ManagmentForm.Designer.cs">
       <DependentUpon>ManagmentForm.cs</DependentUpon>
     </Compile>
